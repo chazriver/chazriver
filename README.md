@@ -2,8 +2,16 @@
   <img src="/GitHub_Banner.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chazriver&label=Profile%20views&color=0e75b6&style=flat" alt="chazriver" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chazriverthedev">
+  <img src="https://shields.io/github/stars/chazriver">
+  <img src="https://img.shields.io/github/followers/chazriver">
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
+</p>
 
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=chazriver&label=Profile%20views&color=0e75b6&style=flat" alt="chazriver" /> </p>
+-->
 - 🔭 I’m currently working on [BYH_Pie_Biz](https://github.com/chazriver/BYH_Pie_Biz)
 
 - 🌱 I’m currently learning **React Native,.NET Maui, TypeScript**
