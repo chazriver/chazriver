@@ -14,8 +14,6 @@
 </p>
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=chazriver&label=Profile%20views&color=0e75b6&style=flat" alt="chazriver" /> </p>
--->
 - 🔭 I’m currently working on [BYH_Pie_Biz](https://github.com/chazriver/BYH_Pie_Biz)
 
 - 🌱 I’m currently learning **React Native,.NET Maui, TypeScript**
@@ -24,7 +22,7 @@
 
 - 💬 Ask me about **IOS / Android Development!**
 
-- 📫 How to reach me **https://hamptonchaz.com/**
+- 📫 How to reach me [https://hamptonchaz.com/] (https://hamptonchaz.com/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chazhampton/](https://www.linkedin.com/in/chazhampton/)
 
@@ -37,8 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chazriver&show_icons=true&theme=tokyonight" height="165">
 </p>
 
-
-<br></br>
 <br></br>
 
 <h3 align="left">Support:</h3>
