@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **IOS / Android Development!**
 
-- 📫 How to reach me [https://hamptonchaz.com/] (https://hamptonchaz.com/)
+- 📫 How to reach me **https://hamptonchaz.com/#contactsection**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chazhampton/](https://www.linkedin.com/in/chazhampton/)
 
