@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React Native,.NET Maui, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://hamptonchaz.com/](https://hamptonchaz.com/)
+- 👨‍💻 All of my projects are available at [https://hamptonchaz.com/#myworksection](https://hamptonchaz.com/)
 
 - 💬 Ask me about **IOS / Android Development!**
 
