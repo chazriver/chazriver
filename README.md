@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaz</h1>
+<h1 align="center">Hi, I'm Chaz</h1>
 <h3 align="center">A passionate Mobile and Full-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chazriver&label=Profile%20views&color=0e75b6&style=flat" alt="chazriver" /> </p>
