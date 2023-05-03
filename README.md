@@ -43,5 +43,14 @@
 <br></br>
 <br></br>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=napthedev&layout=compact&theme=tokyonight&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=napthedev&show_icons=true&theme=tokyonight" height="165">
+</p>
+
+
+<br></br>
+<br></br>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/chazthedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/chazthedev" /></a></p><br><br>
