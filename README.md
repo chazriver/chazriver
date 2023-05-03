@@ -32,17 +32,6 @@
 <p align="left">
 </p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chazriver&show_icons=true&locale=en&layout=compact" alt="chazriver" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chazriver&show_icons=true&locale=en" alt="chazriver" /></p>
-
-
-<br></br>
-<br></br>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chazriver&layout=compact&theme=tokyonight&langs_count=6" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=chazriver&show_icons=true&theme=tokyonight" height="165">
